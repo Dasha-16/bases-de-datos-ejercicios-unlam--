@@ -1,6 +1,6 @@
 # 📚 Bases de Datos 1 — Guía de Ejercicios
 
-> Materia: **Bases de Datos 1**  
+> Materia: **Bases de Datos **  
 > Ejercicios prácticos de consultas SQL sobre distintos modelos relacionales.
 
 ---
@@ -10,7 +10,7 @@
 ```
 /
 ├── 01_almacen_articulo.sql           # Guía completa — 25 ejercicios
-├── 02_almacen_articulo_resueltos.sql # Resoluciones alternativas de la cátedra
+├── 02_almacen_articulo_resueltos.sql # Resoluciones alternativas
 ├── 03_empresa_persona.sql            # Modelo Empresa / Persona
 ├── 04_escuela_alumno.sql             # Modelo Escuela / Alumno
 ├── 05_banco_moneda.sql               # Modelo Banco / Moneda
